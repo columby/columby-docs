@@ -17,20 +17,20 @@ toc:
 
   - head: '/publish/index.html'
     body:
-     - /publish/prepare.html
-     - /publish/upload.html
+     - '/publish/prepare.html'
+     - '/publish/upload.html'
 
   - head: '/maintain/index.html'
     body: 
-     - /maintain/view.html
-     - /maintain/update.html
-     - /maintain/share.html
+     - '/maintain/view.html'
+     - '/maintain/update.html'
+     - '/maintain/share.html'
 
   - head: '/use/index.html'
     body: 
-      - /use/download.html
-      - /use/api.html
-      - /use/widgets.html
+      - '/use/download.html'
+      - '/use/api.html'
+      - '/use/widgets.html'
   - head: '/support/index.html'
     body: 
       - '/support/faq.html'
